@@ -13,7 +13,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "記憶-空間換取時間"
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://noracami.github.io/posts/memorization"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false

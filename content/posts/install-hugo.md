@@ -13,7 +13,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "第一篇先談如何安裝 Hugo"
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://noracami.github.io/posts/install-hugo"
 # disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
