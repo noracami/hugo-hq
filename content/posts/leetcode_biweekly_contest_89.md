@@ -120,9 +120,7 @@ def equal_frequency(word)
 
   frequency[0] += 1
   frequency[-1] -= 1
-  return true if frequency.reject(&:zero?).uniq.size == 1
-
-  false
+  return frequency.reject(&:zero?).uniq.size == 1
 end
 ```
 
