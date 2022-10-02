@@ -21,6 +21,10 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
+editPost:
+  URL: "https://github.com/noracami/hugo-hq/blob/main/content"
+  Text: "Suggest Changes" # edit text
+  appendFilePath: true # to append file path to Edit link
 ---
 
 [Biweekly Contest 89](https://leetcode.com/contest/biweekly-contest-88/)
