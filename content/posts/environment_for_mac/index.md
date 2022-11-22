@@ -11,7 +11,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Mac 開發環境安裝"
 canonicalURL: "https://noracami.github.io/posts/environment_for_mac"
 disableHLJS: true # to disable highlightjs

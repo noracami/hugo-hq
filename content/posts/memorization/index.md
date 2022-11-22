@@ -11,7 +11,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "記憶-空間換取時間"
 canonicalURL: "https://noracami.github.io/posts/memorization"
 disableHLJS: true # to disable highlightjs

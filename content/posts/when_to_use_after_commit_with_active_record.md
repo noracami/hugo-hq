@@ -8,7 +8,7 @@ author: "Me"
 showToc: true
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "[Rails] after_commit, 何時會用到它"
 canonicalURL: "https://noracami.github.io/posts/when_to_use_after_commit_with_active_record"
 disableShare: false

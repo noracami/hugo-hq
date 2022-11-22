@@ -8,7 +8,7 @@ author: "Me"
 showToc: true
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 description: "LeetCode Biweekly Contest 89"
 canonicalURL: "https://noracami.github.io/posts/leetcode_biweekly_contest_89"
 disableShare: false

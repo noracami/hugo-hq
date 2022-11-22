@@ -11,7 +11,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "[CodeSignal] Minesweeper"
 canonicalURL: "https://noracami.github.io/posts/minesweeper"
 disableHLJS: true # to disable highlightjs
